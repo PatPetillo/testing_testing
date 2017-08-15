@@ -1,0 +1,5 @@
+*****Git*****
+VCS- Version Control System
+Saves state of project, git commit
+git add . adds everything in directory
+git add, git commit, git status and git log
